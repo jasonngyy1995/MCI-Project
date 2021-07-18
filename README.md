@@ -1,3 +1,8 @@
+# Project Intro
+
+MindSpace is a project led by the Language Technology for Social Good (LT4SG) to solve the current mental health issues. Our team is responsible of the front-end development and setting up a database to visualize the analysed data, displaying user's different emotions and emotion triggers, tracking user's emotion from time to time, providing strategies about how to cope with specific negative emotions. 
+
+
 ## Start and run the backend server
 
 1.  With docker installed and update, navigate to the folder /MindSpaceApi and run:
