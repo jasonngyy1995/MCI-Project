@@ -72,3 +72,4 @@ P.S. It is always good to first run "git pull" first before working on your chan
 
     Email: test@test.com, Password: 123456\
     Email: test2@test.com, Password: 123456
+# MCI-Project
